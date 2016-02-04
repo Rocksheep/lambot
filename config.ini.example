@@ -1,0 +1,7 @@
+[discord]
+username=email
+password=password
+
+[imgur]
+client_id=id
+client_secret=secret
